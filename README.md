@@ -1,8 +1,6 @@
 <div align="center">
 
-# Juan Banga Pardo
-
-### Cybersecurity Research Engineer
+## About me
 
 **Applied Cryptography · Confidential Computing · Remote Attestation · Post-Quantum Cryptography · RISC-V Security**
 
