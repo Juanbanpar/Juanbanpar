@@ -39,7 +39,7 @@ I work on applied security problems where cryptography, hardware and system trus
 **Trust & confidential computing**
 
 `TPM 2.0` · `vTPM` · `IETF RATS` · `Measured Boot` · `Linux IMA`  
-`AMD SEV-SNP` · `Intel TDX` · `RISC-V CoVE / ACE` · `zkVMs`
+`AMD SEV-SNP` · `Intel TDX` · `RISC-V CoVE / ACE`
 
 </td>
 </tr>
