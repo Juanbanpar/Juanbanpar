@@ -2,7 +2,7 @@
 
 ## About me
 
-**Applied Cryptography · Confidential Computing · Remote Attestation · Post-Quantum Cryptography · RISC-V Security**
+**Applied Cryptography · Confidential Computing · Remote Attestation · Post-Quantum Cryptography · RISC-V**
 
 <p>
   <a href="https://www.linkedin.com/in/juanbangapardo/">
@@ -20,7 +20,11 @@
 
 ---
 
-I work on applied security problems where cryptography, hardware and system trust meet. My current interests include discovering and managing cryptography already deployed in complex environments, post-quantum migration, confidential computing, remote attestation and the security boundaries of verifiable computation.
+I'm a security researcher and software engineer working on applied cryptography, low-level systems and RISC-V.
+
+My current work includes cryptographic inventories and agility, post-quantum migration, confidential computing and remote attestation. I also work with Linux, virtualization, eBPF and hardware-backed security mechanisms.
+
+My background includes both research and implementation, with a focus on building and evaluating practical security systems.
 
 ### Research focus
 
@@ -51,15 +55,15 @@ I work on applied security problems where cryptography, hardware and system trus
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Juanbanpar&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=github_dark&custom_title=GitHub%20Activity"
+      srcset="https://github-stats-extended.vercel.app/api?username=Juanbanpar&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=github_dark&custom_title=GitHub%20Activity"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://github-stats-extended.vercel.app/api?username=Juanbanpar&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=default&custom_title=GitHub%20Activity"
+      srcset="https://github-stats-extended.vercel.app/api?username=Juanbanpar&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=default&custom_title=GitHub%20Activity"
     />
     <img
       height="185"
-      src="https://github-stats-extended.vercel.app/api?username=Juanbanpar&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&theme=transparent&custom_title=GitHub%20Activity"
+      src="https://github-stats-extended.vercel.app/api?username=Juanbanpar&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=transparent&custom_title=GitHub%20Activity"
       alt="GitHub activity"
     />
   </picture>
