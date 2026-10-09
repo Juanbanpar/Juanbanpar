@@ -2,8 +2,6 @@
 
 ## About me
 
-**Applied Cryptography · Confidential Computing · Remote Attestation · Post-Quantum Cryptography · RISC-V**
-
 <p>
   <a href="https://www.linkedin.com/in/juanbangapardo/">
     <img src="https://img.shields.io/badge/LinkedIn-Juan%20Banga%20Pardo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -17,8 +15,6 @@
 </p>
 
 </div>
-
----
 
 I'm a security researcher and software engineer working on applied cryptography, low-level systems and RISC-V.
 
