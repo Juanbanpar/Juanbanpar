@@ -4,13 +4,16 @@
 
 <p>
   <a href="https://www.linkedin.com/in/juanbangapardo/">
-    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Banga%20Pardo-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Juan%20Banga%20Pardo-0A66C2?style=flat-square&logo=data:image/svg%2Bxml;base64,PHN2ZyBmaWxsPSIjZmZmZmZmIiByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU%2BTGlua2VkSW48L3RpdGxlPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjIgMGguMDAzeiIvPjwvc3ZnPg%3D%3D" alt="LinkedIn">
   </a>
   <a href="https://github.com/Juanbanpar">
     <img src="https://img.shields.io/badge/GitHub-@Juanbanpar-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://juanbanpar.github.io/">
+    <img src="https://img.shields.io/badge/Website-juanbanpar.github.io-4B5563?style=flat-square&logo=githubpages&logoColor=white" alt="Personal website">
+  </a>
   <a href="https://www.gradiant.org/">
-    <img src="https://img.shields.io/badge/Gradiant-Security%20%26%20Privacy-263238?style=flat-square" alt="Gradiant">
+    <img src="https://img.shields.io/badge/Gradiant-Security%20%26%20Privacy-EB2026?style=flat-square" alt="Gradiant">
   </a>
 </p>
 
