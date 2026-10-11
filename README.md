@@ -30,16 +30,16 @@ My background includes both research and implementation, with a focus on buildin
 
 **Applied cryptography & migration**
 
-`Cryptographic Inventories` · `CBOM` · `Crypto-Agility`  
-`Post-Quantum Cryptography` · `PKI` · `HSMs` · `PKCS#11`
+`Cryptographic Inventories` `Crypto-Agility`
+`CBOM` `PQC` `PKI` `HSMs` `TPMs` `PKCS#11`
 
 </td>
 <td width="50%" valign="top">
 
 **Trust & confidential computing**
 
-`TPM 2.0` · `vTPM` · `IETF RATS` · `Measured Boot` · `Linux IMA`  
-`AMD SEV-SNP` · `Intel TDX` · `RISC-V CoVE / ACE`
+`IETF RATS` `Measured Boot` `Linux IMA`  
+`AMD SEV-SNP` `Intel TDX` `RISC-V CoVE / ACE`
 
 </td>
 </tr>
