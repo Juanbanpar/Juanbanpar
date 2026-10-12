@@ -158,7 +158,7 @@ My background includes both research and implementation, with a focus on buildin
 
 Cryptographic inventories and CBOM as foundations for crypto-agility and structured PQC migration.
 
-[**Proceedings →**](https://cryptull.webs.ull.es/RECSI2026/LibrodeActasRECSI2026.pdf)
+[**Proceedings**](https://cryptull.webs.ull.es/RECSI2026/LibrodeActasRECSI2026.pdf)
 
 </td>
 <td width="50%" valign="top">
@@ -168,7 +168,7 @@ Cryptographic inventories and CBOM as foundations for crypto-agility and structu
 
 Cryptographic discovery, inventory consolidation and migration planning for post-quantum environments.
 
-[**Watch presentation →**](https://www.youtube.com/watch?v=CF-mI5TFZFg)
+[**Watch presentation**](https://www.youtube.com/watch?v=CF-mI5TFZFg)
 
 </td>
 </tr>
